@@ -1,0 +1,10 @@
+src/
+test/
+.gitignore
+.eslintrc.js
+.prettierrc
+jest.config.js
+tsconfig.json
+node_modules/
+dist/
+.DS_Store
